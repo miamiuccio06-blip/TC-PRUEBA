@@ -1,2 +1,0 @@
-# TC-PRUEBA
-Lindo codigo
